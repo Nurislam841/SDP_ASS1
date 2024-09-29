@@ -1,3 +1,5 @@
+package Firs_Task;
+
 public class User {
     private String name;
     private String email;
